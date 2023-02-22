@@ -1,4 +1,4 @@
-# Global_Terrorism_Database_Tableau_Dashboard
+# Global Terrorism Database Tableau Dashboard
 Build Dashboard on GTD database contains terrorism data from 1970 to 2017
 
 # About the database
@@ -9,7 +9,7 @@ Statistical information contained in the Global Terrorism Database is based on r
 
 The National Consortium for the Study of Terrorism and Responses to Terrorism (START) makes the GTD available via this online interface in an effort to increase understanding of terrorist violence so that it can be more readily studied and defeated.
 
-#Characteristics of the GTD
+# Characteristics of the GTD
 
 Contains information on over 200,000 terrorist attacks
 Currently the most comprehensive unclassified database on terrorist attacks in the world
